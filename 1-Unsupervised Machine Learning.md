@@ -1,5 +1,5 @@
-PCA
-===
+PCA and tensor decomposition 
+============================
 
 
 K-means clustering 
